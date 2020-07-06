@@ -384,12 +384,6 @@ var marker = {
             comp.selectedLayers[0].property("Marker").setValueAtTime( tempArr['time'][o] + comp.selectedLayers[0].startTime, tempArr['val'][o])
         }
 
-        tempArr = {}    
-
-        
-
-        
-        
-        // app.executeCommand(app.findMenuCommandId("Add Marker"));
+        tempArr = {}
     }
 }
